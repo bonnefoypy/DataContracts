@@ -201,3 +201,14 @@ Le framework inclut des vues SQL pour le monitoring :
 ## Auteur
 
 Pierre-Yves Bonnefoy - Olexya
+
+## Remerciements
+
+Je tiens à remercier chaleureusement tous les contributeurs et relecteurs qui m'ont accompagné dans l'écriture de cette série d'articles :
+
+- Stéphane Heckel
+- Jean-Georges Perrin
+- Gaëlle SERET
+- Najate BOUAD
+
+Leurs précieux retours, suggestions et expertises ont été déterminants dans la qualité finale de ce travail.
